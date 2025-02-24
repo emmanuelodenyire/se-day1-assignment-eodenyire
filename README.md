@@ -2,7 +2,7 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering<br>
+#Part 1: Introduction to Software Engineeringi<br>
 
 Explain what software engineering is and discuss its importance in the technology industry.<br>
 Software engineering is a disciplined field of study that focuses on the systematic design, development, testing, deployment, and maintenance of software systems. It combines principles from computer science, engineering, and project management to create reliable, efficient, and scalable software solutions that meet specific user requirements.
